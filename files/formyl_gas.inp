@@ -1,0 +1,18 @@
+#p b3lyp/6-31g* opt freq
+
+rembiszewski
+
+0 1
+c
+o 1 oc2
+cl 1 clc3 2 clco3
+h 1 hc4 3 hccl4 2 dih4
+ 
+oc2 = 1.400000
+clc3 = 1.750000
+clco3 = 109.471
+hc4 = 1.089000
+hccl4 = 109.471
+dih4 = 180.000
+ 
+ 

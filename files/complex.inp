@@ -1,0 +1,22 @@
+#p hf/6-31g* opt(maxcycle=100) freq
+
+rembiszewski
+
+0 1
+O
+H 1 ho2
+H 1 ho3 2 hoh3
+H 2 hh4 1 hho4 3 dih4
+Cl 4 clh5 2 clhh5 1 dih5
+ 
+ho2 = 0.950000
+ho3 = 0.950000
+hoh3 = 109.471
+hh4 = 1.500000
+hho4 = 109.471
+dih4 = 120.000
+clh5 = 1.008000
+clhh5 = 179.000
+dih5 = 180.000
+ 
+ 
